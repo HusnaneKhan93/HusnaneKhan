@@ -1,2 +1,2 @@
-# intro-to-git-test
+# HusnaneKhan
 A test repo for the intro to git document
